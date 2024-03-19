@@ -1,0 +1,17 @@
+{
+  "name": "captain-hooks-discord",
+  "version": "1.0.0",
+  "description": "build a bot to notice to discord",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "author": "sanmario",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
